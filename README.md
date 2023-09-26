@@ -1,1 +1,1 @@
-# Email_Analysis_Ensemble_Learning
+# Phishing_Email_Ensemble_Learning
